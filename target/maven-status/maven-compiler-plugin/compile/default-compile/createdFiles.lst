@@ -1,0 +1,14 @@
+com\example\ratingmanagementsystem\controller\RatingController.class
+com\example\ratingmanagementsystem\repository\RatingRepository.class
+com\example\ratingmanagementsystem\RatingManagementSystemApplication.class
+com\example\ratingmanagementsystem\util\JwtFilter.class
+com\example\ratingmanagementsystem\model\User.class
+com\example\ratingmanagementsystem\util\JwtUtil.class
+com\example\ratingmanagementsystem\controller\AuthController.class
+com\example\ratingmanagementsystem\controller\AdminController.class
+com\example\ratingmanagementsystem\PasswordGenerator.class
+com\example\ratingmanagementsystem\security\SecurityConfig.class
+com\example\ratingmanagementsystem\model\Rating.class
+com\example\ratingmanagementsystem\repository\UserRepository.class
+com\example\ratingmanagementsystem\service\RatingService.class
+com\example\ratingmanagementsystem\service\UserService.class
